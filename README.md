@@ -1,8 +1,9 @@
 > [!IMPORTANT]
-> This project is part of the [DevOpsTheHardWay][DevOpsTheHardWay] course. Please [onboard the course][onboarding_tutorial] before starting. 
-> 
+> This project is part of the [DevOpsTheHardWay][DevOpsTheHardWay] course. 
+
+> [!TIP]
 > The project builds upon the concepts covered in our [previous Docker project][PolybotServiceDocker].
-> To ensure a smooth learning experience, we recommend completing the Docker project first.
+> We recommend completing the Docker project first.
 
 # The Polybot Service: AWS Project
 
